@@ -331,8 +331,8 @@
 
 .footer__social-list {
   justify-self: flex-end;
-  width: 240px;
-  height: 48px;
+  /*width: 240px;
+  height: 48px;*/
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
